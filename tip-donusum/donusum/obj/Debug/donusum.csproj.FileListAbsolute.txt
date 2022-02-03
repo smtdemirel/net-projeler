@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\tip-donusum\donusum\bin\Debug\donusum.exe.config
+C:\Users\smtde\Desktop\.net\tip-donusum\donusum\bin\Debug\donusum.exe
+C:\Users\smtde\Desktop\.net\tip-donusum\donusum\bin\Debug\donusum.pdb
+C:\Users\smtde\Desktop\.net\tip-donusum\donusum\obj\Debug\donusum.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\tip-donusum\donusum\obj\Debug\donusum.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\tip-donusum\donusum\obj\Debug\donusum.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\tip-donusum\donusum\obj\Debug\donusum.exe
+C:\Users\smtde\Desktop\.net\tip-donusum\donusum\obj\Debug\donusum.pdb

@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari3\algoritma-sorulari3\bin\Debug\algoritma-sorulari3.exe.config
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari3\algoritma-sorulari3\bin\Debug\algoritma-sorulari3.exe
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari3\algoritma-sorulari3\bin\Debug\algoritma-sorulari3.pdb
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari3\algoritma-sorulari3\obj\Debug\algoritma-sorulari3.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari3\algoritma-sorulari3\obj\Debug\algoritma-sorulari3.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari3\algoritma-sorulari3\obj\Debug\algoritma-sorulari3.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari3\algoritma-sorulari3\obj\Debug\algoritma-sorulari3.exe
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari3\algoritma-sorulari3\obj\Debug\algoritma-sorulari3.pdb

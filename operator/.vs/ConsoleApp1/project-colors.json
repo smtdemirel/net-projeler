@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50150e55-12ff-4f55-85a8-9cb6a0b6b27d": {
+      "ProjectGuid": "50150e55-12ff-4f55-85a8-9cb6a0b6b27d",
+      "DisplayName": "operator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd4e971c-df0b-4a45-ab94-08e38cc812b1": {
+      "ProjectGuid": "bd4e971c-df0b-4a45-ab94-08e38cc812b1",
+      "DisplayName": "Algoritma-Sorulari1",
+      "ColorIndex": 0
+    },
+    "e3cd7609-869e-411d-ba70-36c84634e9a3": {
+      "ProjectGuid": "e3cd7609-869e-411d-ba70-36c84634e9a3",
+      "DisplayName": "algoritma-sorulari2",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

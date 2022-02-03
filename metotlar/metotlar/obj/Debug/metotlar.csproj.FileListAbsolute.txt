@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\metotlar\metotlar\obj\Debug\metotlar.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\metotlar\metotlar\obj\Debug\metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\metotlar\metotlar\obj\Debug\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\metotlar\metotlar\bin\Debug\metotlar.exe.config
+C:\Users\smtde\Desktop\.net\metotlar\metotlar\bin\Debug\metotlar.exe
+C:\Users\smtde\Desktop\.net\metotlar\metotlar\bin\Debug\metotlar.pdb
+C:\Users\smtde\Desktop\.net\metotlar\metotlar\obj\Debug\metotlar.exe
+C:\Users\smtde\Desktop\.net\metotlar\metotlar\obj\Debug\metotlar.pdb

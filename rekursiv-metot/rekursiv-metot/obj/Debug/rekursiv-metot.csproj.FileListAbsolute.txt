@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\rekursiv-metot\rekursiv-metot\bin\Debug\rekursiv-metot.exe.config
+C:\Users\smtde\Desktop\.net\rekursiv-metot\rekursiv-metot\bin\Debug\rekursiv-metot.exe
+C:\Users\smtde\Desktop\.net\rekursiv-metot\rekursiv-metot\bin\Debug\rekursiv-metot.pdb
+C:\Users\smtde\Desktop\.net\rekursiv-metot\rekursiv-metot\obj\Debug\rekursiv-metot.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\rekursiv-metot\rekursiv-metot\obj\Debug\rekursiv-metot.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\rekursiv-metot\rekursiv-metot\obj\Debug\rekursiv-metot.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\rekursiv-metot\rekursiv-metot\obj\Debug\rekursiv-metot.exe
+C:\Users\smtde\Desktop\.net\rekursiv-metot\rekursiv-metot\obj\Debug\rekursiv-metot.pdb

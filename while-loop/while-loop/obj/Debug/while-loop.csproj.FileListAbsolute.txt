@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\while-loop\while-loop\bin\Debug\while-loop.exe.config
+C:\Users\smtde\Desktop\.net\while-loop\while-loop\bin\Debug\while-loop.exe
+C:\Users\smtde\Desktop\.net\while-loop\while-loop\bin\Debug\while-loop.pdb
+C:\Users\smtde\Desktop\.net\while-loop\while-loop\obj\Debug\while-loop.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\while-loop\while-loop\obj\Debug\while-loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\while-loop\while-loop\obj\Debug\while-loop.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\while-loop\while-loop\obj\Debug\while-loop.exe
+C:\Users\smtde\Desktop\.net\while-loop\while-loop\obj\Debug\while-loop.pdb

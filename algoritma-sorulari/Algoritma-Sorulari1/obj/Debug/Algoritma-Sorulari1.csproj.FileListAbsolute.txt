@@ -1,0 +1,16 @@
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari\bin\Debug\Algoritma-Sorulari.exe.config
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari\bin\Debug\Algoritma-Sorulari.exe
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari\bin\Debug\Algoritma-Sorulari.pdb
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari\obj\Debug\Algoritma-Sorulari1.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari\obj\Debug\Algoritma-Sorulari1.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari\obj\Debug\Algoritma-Sorulari1.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari\obj\Debug\Algoritma-Sorulari.exe
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari\obj\Debug\Algoritma-Sorulari.pdb
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari1\bin\Debug\Algoritma-Sorulari.exe.config
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari1\bin\Debug\Algoritma-Sorulari.exe
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari1\bin\Debug\Algoritma-Sorulari.pdb
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari1\obj\Debug\Algoritma-Sorulari1.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari1\obj\Debug\Algoritma-Sorulari1.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari1\obj\Debug\Algoritma-Sorulari1.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari1\obj\Debug\Algoritma-Sorulari.exe
+C:\Users\smtde\Desktop\.net\algoritma-sorulari\Algoritma-Sorulari1\obj\Debug\Algoritma-Sorulari.pdb
