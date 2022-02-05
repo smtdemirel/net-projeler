@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\net-projeler\bolum2\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\smtde\Desktop\.net\net-projeler\bolum2\DateTime\bin\Debug\DateTime.exe
+C:\Users\smtde\Desktop\.net\net-projeler\bolum2\DateTime\bin\Debug\DateTime.pdb
+C:\Users\smtde\Desktop\.net\net-projeler\bolum2\DateTime\obj\Debug\DateTimeSample.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\net-projeler\bolum2\DateTime\obj\Debug\DateTimeSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\net-projeler\bolum2\DateTime\obj\Debug\DateTimeSample.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\net-projeler\bolum2\DateTime\obj\Debug\DateTime.exe
+C:\Users\smtde\Desktop\.net\net-projeler\bolum2\DateTime\obj\Debug\DateTime.pdb
