@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\net-projeler\class\Constructer\bin\Debug\Constructer.exe.config
+C:\Users\smtde\Desktop\.net\net-projeler\class\Constructer\bin\Debug\Constructer.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\Constructer\bin\Debug\Constructer.pdb
+C:\Users\smtde\Desktop\.net\net-projeler\class\Constructer\obj\Debug\Constructer.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Constructer\obj\Debug\Constructer.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Constructer\obj\Debug\Constructer.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Constructer\obj\Debug\Constructer.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\Constructer\obj\Debug\Constructer.pdb
