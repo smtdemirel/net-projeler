@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\net-projeler\class\StaticSinif\bin\Debug\StaticSinif.exe.config
+C:\Users\smtde\Desktop\.net\net-projeler\class\StaticSinif\bin\Debug\StaticSinif.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\StaticSinif\bin\Debug\StaticSinif.pdb
+C:\Users\smtde\Desktop\.net\net-projeler\class\StaticSinif\obj\Debug\StaticSinif.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\StaticSinif\obj\Debug\StaticSinif.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\StaticSinif\obj\Debug\StaticSinif.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\StaticSinif\obj\Debug\StaticSinif.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\StaticSinif\obj\Debug\StaticSinif.pdb
