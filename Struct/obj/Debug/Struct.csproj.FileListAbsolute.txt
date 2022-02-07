@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\net-projeler\class\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Struct\obj\Debug\Struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Struct\bin\Debug\Struct.exe.config
+C:\Users\smtde\Desktop\.net\net-projeler\class\Struct\bin\Debug\Struct.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\Struct\bin\Debug\Struct.pdb
+C:\Users\smtde\Desktop\.net\net-projeler\class\Struct\obj\Debug\Struct.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\Struct\obj\Debug\Struct.pdb
