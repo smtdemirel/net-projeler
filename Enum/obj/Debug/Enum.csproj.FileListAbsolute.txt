@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\net-projeler\class\Enum\bin\Debug\Enum.exe.config
+C:\Users\smtde\Desktop\.net\net-projeler\class\Enum\bin\Debug\Enum.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\Enum\bin\Debug\Enum.pdb
+C:\Users\smtde\Desktop\.net\net-projeler\class\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Enum\obj\Debug\Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Enum\obj\Debug\Enum.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\Enum\obj\Debug\Enum.pdb
