@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\net-projeler\class\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\smtde\Desktop\.net\net-projeler\class\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\smtde\Desktop\.net\net-projeler\class\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\Inheritance\obj\Debug\Inheritance.pdb
