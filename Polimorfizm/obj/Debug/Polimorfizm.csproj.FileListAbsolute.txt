@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\net-projeler\class\Polimorfizm\obj\Debug\Polimorfizm.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Polimorfizm\obj\Debug\Polimorfizm.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Polimorfizm\obj\Debug\Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\Polimorfizm\bin\Debug\Polimorfizm.exe.config
+C:\Users\smtde\Desktop\.net\net-projeler\class\Polimorfizm\bin\Debug\Polimorfizm.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\Polimorfizm\bin\Debug\Polimorfizm.pdb
+C:\Users\smtde\Desktop\.net\net-projeler\class\Polimorfizm\obj\Debug\Polimorfizm.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\Polimorfizm\obj\Debug\Polimorfizm.pdb
